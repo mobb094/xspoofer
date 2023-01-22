@@ -1,9 +1,10 @@
-# Xspoofer.com #
+#### xspoofer.com ####
 
-Made by mobb094
-Please dont sell it (its 100% free)
-If drivers got detected update it yourself
-UD all EAC and BE games (22.01.2023)
-I will post more on my github. :)
+💻 Spoofer 100% coded in batch
 
-# Xspoofer.com #
+📸 Pictures:
+https://media.discordapp.net/attachments/1057704829142695970/1066673448413319208/f.PNG?width=662&height=377
+
+📋 Info:
+- If you editing this you dont need to post creds
+- Dont sell it! Its free spoofer!
